@@ -8,4 +8,4 @@
 
 システム名：自分の遊んだことあるゲームデータ管理システム
 
-ＵＲＬ　　：http://
+ＵＲＬ　　：https://aso2201182.chips.jp/個人web/kanri_TOP.php
