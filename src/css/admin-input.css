@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+
+.all{
+    text-align: center;
+}
+
+.t{
+    margin: 20px 0;
+}
+
+input[type="text"],
+input[type="number"],
+textarea{
+    width: 300px;
+}
